@@ -1,4 +1,4 @@
-# Kapitel 1 Übung 1 ("Hallo Welt") 👋🌍
+# Kapitel 1 Übung 1 ("Hallo Welt") 👋🌏
 
 - Starten Sie Eclipse
 - Erstellen Sie ein neues Projekt
